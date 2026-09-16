@@ -1,0 +1,15 @@
+{
+  "os": "Windows",
+  "architecture": "AMD64",
+  "actual_processor": "Intel(R) Core(TM) Ultra 5 125U",
+  "openvino": "2026.3.1-22476-759c5a6ab8c-releases/2026/3",
+  "cpu_query_supported_operations": 112,
+  "graph_operations": 112,
+  "output_shape": [
+    1,
+    13
+  ],
+  "finite_actions": true,
+  "target_series_2_3_execution_verified": false,
+  "note": "This report records this host only. Series 2/3 CPU compatibility is inferred separately from the Intel support matrix. Verify the actual target processor before asserting qualification."
+}

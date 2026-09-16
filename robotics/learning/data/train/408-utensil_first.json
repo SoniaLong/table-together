@@ -1,0 +1,10 @@
+{
+  "seed": 408,
+  "split": "train",
+  "task": 1,
+  "instruction": "Set the table. Start with the utensil.",
+  "jitter_m": 0.012,
+  "success": true,
+  "steps": 18,
+  "seconds": 10.241913400008343
+}

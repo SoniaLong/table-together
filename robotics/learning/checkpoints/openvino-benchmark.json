@@ -1,0 +1,28 @@
+{
+  "checkpoint_sha256": "f2f60dde4d383f845b91e9033afe51a691ece023a1bf53a6e29452e53dbb6bc3",
+  "openvino": "2026.3.1-22476-759c5a6ab8c-releases/2026/3",
+  "device": "CPU",
+  "device_name": "Intel(R) Core(TM) Ultra 5 125U",
+  "variants": {
+    "fp32": {
+      "weights_bytes": 799236,
+      "warmup_calls": 10,
+      "timed_calls": 100,
+      "median_latency_ms": 1.177350030047819,
+      "p95_latency_ms": 2.575575013179331,
+      "serial_calls_per_second": 713.6734817357686,
+      "maximum_action_difference_vs_pytorch": 2.384185791015625e-07,
+      "note": "FP16 variant compresses weights; CPU computation requested in FP32. Task-quality comparison requires rollouts."
+    },
+    "fp16_weights": {
+      "weights_bytes": 399704,
+      "warmup_calls": 10,
+      "timed_calls": 100,
+      "median_latency_ms": 1.314100023591891,
+      "p95_latency_ms": 3.1189799599815156,
+      "serial_calls_per_second": 634.553601191834,
+      "maximum_action_difference_vs_pytorch": 0.0008080005645751953,
+      "note": "FP16 variant compresses weights; CPU computation requested in FP32. Task-quality comparison requires rollouts."
+    }
+  }
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "seed": 100,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 15.30073800001992
+  },
+  {
+    "seed": 100,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.04574600001797
+  },
+  {
+    "seed": 101,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 7.620810199994594
+  },
+  {
+    "seed": 101,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 8.162665700016078
+  },
+  {
+    "seed": 102,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 8.65407970000524
+  },
+  {
+    "seed": 102,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 8.617673100030515
+  },
+  {
+    "seed": 103,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 7.68263830000069
+  },
+  {
+    "seed": 103,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 7.7648871000274085
+  },
+  {
+    "seed": 104,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 7.131880300003104
+  },
+  {
+    "seed": 104,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 6.019871299969964
+  },
+  {
+    "seed": 105,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.784277200000361
+  },
+  {
+    "seed": 105,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.93183900002623
+  },
+  {
+    "seed": 106,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.6360500999726355
+  },
+  {
+    "seed": 106,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.565368699957617
+  },
+  {
+    "seed": 107,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.566890500020236
+  },
+  {
+    "seed": 107,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.439179799985141
+  },
+  {
+    "seed": 108,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.649022400029935
+  },
+  {
+    "seed": 108,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 6.045642199984286
+  },
+  {
+    "seed": 109,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.589208299992606
+  },
+  {
+    "seed": 109,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.50811860000249
+  },
+  {
+    "seed": 110,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.482852699991781
+  },
+  {
+    "seed": 110,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.388956399983726
+  },
+  {
+    "seed": 111,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.584107600036077
+  },
+  {
+    "seed": 111,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.692036200023722
+  },
+  {
+    "seed": 112,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.315054799953941
+  },
+  {
+    "seed": 112,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.379450800013728
+  },
+  {
+    "seed": 113,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 6.351588000019547
+  },
+  {
+    "seed": 113,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.436039299995173
+  },
+  {
+    "seed": 114,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": false,
+    "steps": 18,
+    "seconds": 5.479640699981246
+  },
+  {
+    "seed": 114,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": false,
+    "steps": 18,
+    "seconds": 8.737086699984502
+  },
+  {
+    "seed": 115,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 8.276484699978027
+  },
+  {
+    "seed": 115,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": false,
+    "steps": 18,
+    "seconds": 7.086826900020242
+  },
+  {
+    "seed": 116,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 7.607373000006191
+  },
+  {
+    "seed": 116,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 8.081367300008424
+  },
+  {
+    "seed": 117,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 6.97139399999287
+  },
+  {
+    "seed": 117,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 6.472675499971956
+  },
+  {
+    "seed": 118,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 7.1680071000009775
+  },
+  {
+    "seed": 118,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 6.666989899997134
+  },
+  {
+    "seed": 119,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.557408699998632
+  },
+  {
+    "seed": 119,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.426934699993581
+  },
+  {
+    "seed": 120,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.540765900048427
+  },
+  {
+    "seed": 120,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.526121000002604
+  },
+  {
+    "seed": 121,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": false,
+    "steps": 18,
+    "seconds": 5.517356100026518
+  },
+  {
+    "seed": 121,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": false,
+    "steps": 18,
+    "seconds": 5.043206200003624
+  },
+  {
+    "seed": 122,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.093118900025729
+  },
+  {
+    "seed": 122,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.05679219996091
+  },
+  {
+    "seed": 123,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 4.98790690000169
+  },
+  {
+    "seed": 123,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.008,
+    "success": true,
+    "steps": 18,
+    "seconds": 5.124569399980828
+  },
+  {
+    "seed": 400,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 16.421403200016357
+  },
+  {
+    "seed": 400,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 14.988432399986777
+  },
+  {
+    "seed": 401,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 12.723496499995235
+  },
+  {
+    "seed": 401,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 14.255670999991708
+  },
+  {
+    "seed": 402,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 11.168050999986008
+  },
+  {
+    "seed": 402,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 15.001367199991364
+  },
+  {
+    "seed": 403,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 13.779081899963785
+  },
+  {
+    "seed": 403,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 13.885243600001559
+  },
+  {
+    "seed": 404,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 13.967127999989316
+  },
+  {
+    "seed": 404,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.87256340001477
+  },
+  {
+    "seed": 405,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.670604499988258
+  },
+  {
+    "seed": 405,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.779470000008587
+  },
+  {
+    "seed": 406,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.782375699956901
+  },
+  {
+    "seed": 406,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.52960670000175
+  },
+  {
+    "seed": 407,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.396230899961665
+  },
+  {
+    "seed": 407,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 10.213971099990886
+  },
+  {
+    "seed": 408,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.635548099991865
+  },
+  {
+    "seed": 408,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 10.241913400008343
+  },
+  {
+    "seed": 409,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 10.78182899998501
+  },
+  {
+    "seed": 409,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 10.331958000024315
+  },
+  {
+    "seed": 410,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 10.69757150002988
+  },
+  {
+    "seed": 410,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.950224599975627
+  },
+  {
+    "seed": 411,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.89890040003229
+  },
+  {
+    "seed": 411,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.633602800022345
+  },
+  {
+    "seed": 412,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 10.028927300008945
+  },
+  {
+    "seed": 412,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 10.731825799972285
+  },
+  {
+    "seed": 413,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.895652200037148
+  },
+  {
+    "seed": 413,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.741223599994555
+  },
+  {
+    "seed": 414,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.885968399990816
+  },
+  {
+    "seed": 414,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.713563999976031
+  },
+  {
+    "seed": 415,
+    "split": "train",
+    "task": 0,
+    "instruction": "Set the table. Start with the cup.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.931903299991973
+  },
+  {
+    "seed": 415,
+    "split": "train",
+    "task": 1,
+    "instruction": "Set the table. Start with the utensil.",
+    "jitter_m": 0.012,
+    "success": true,
+    "steps": 18,
+    "seconds": 9.882748399977572
+  }
+]

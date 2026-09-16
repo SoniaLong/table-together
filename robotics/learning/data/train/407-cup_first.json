@@ -1,0 +1,10 @@
+{
+  "seed": 407,
+  "split": "train",
+  "task": 0,
+  "instruction": "Set the table. Start with the cup.",
+  "jitter_m": 0.012,
+  "success": true,
+  "steps": 18,
+  "seconds": 9.396230899961665
+}

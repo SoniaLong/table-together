@@ -1,0 +1,6 @@
+mujoco==3.13.0
+numpy==2.2.6
+scipy==1.15.3
+Pillow==12.3.0
+openvino==2026.3.1
+openvino-genai==2026.3.1.0
